@@ -1,0 +1,109 @@
+CONTENU DU SITE — PRISE HAUTE, LE CLUB D'ESCALADE DU LYCÉE
+
+Tout le texte du site est ici : copie-le dans tes pages, c'est toi qui choisis les balises.
+Les indications entre crochets [ ] décrivent le rôle du contenu : ne les recopie pas dans tes pages.
+
+
+=============== ÉLÉMENTS COMMUNS AUX 3 PAGES ===============
+
+[Le nom du club : c'est le titre le plus important de chaque page]
+Prise Haute
+
+[Une phrase d'accroche, juste sous le nom du club]
+Le club d'escalade du lycée, ouvert à tous les niveaux
+
+[Le logo, affiché en haut de chaque page]
+Image : images/logo.png
+
+[Le menu, identique sur les 3 pages]
+Accueil  -  Activités  -  Inscription
+
+[Le bas de page, identique sur les 3 pages]
+Prise Haute, association sportive du lycée - 2026
+Nous écrire : prisehaute@exemple.fr   (ce texte doit être un lien qui ouvre la messagerie)
+
+
+=============== PAGE 1 : ACCUEIL (index.html) ===============
+
+[Titre de partie]
+Qui sommes-nous ?
+
+[Paragraphe]
+Prise Haute réunit chaque semaine une trentaine d'élèves autour de l'escalade en salle. Débutant ou confirmé, tu trouveras ta place : les plus expérimentés encadrent les nouveaux, et tout le matériel est prêté.
+
+[Image]
+Image : images/mur.jpg (le mur d'escalade du gymnase, couvert de prises de couleur)
+
+[Titre de partie]
+Actualités
+
+[Trois actualités indépendantes. Chacune a un titre, une date et un texte.]
+
+Titre : Un nouveau mur au gymnase
+Date : 12 septembre 2026
+Texte : Le gymnase s'est équipé d'un mur de 8 mètres avec 40 nouvelles voies, du niveau débutant au niveau expert.
+
+Titre : Notre première sortie en falaise
+Date : 3 octobre 2026
+Texte : Douze grimpeurs du club ont découvert l'escalade en extérieur, encadrés par deux moniteurs diplômés.
+
+Titre : En route pour la compétition régionale
+Date : 21 novembre 2026
+Texte : Le club présentera une équipe de six élèves à la compétition régionale scolaire de bloc.
+
+
+=============== PAGE 2 : ACTIVITÉS (activites.html) ===============
+
+[Titre de partie]
+Nos créneaux
+
+[Les créneaux, dans l'ordre de la semaine (liste ordonnée)]
+Lundi de 17 h à 18 h 30 : découverte
+Mercredi de 13 h 30 à 16 h : tous niveaux
+Vendredi de 17 h à 19 h : perfectionnement
+
+[Titre de partie]
+Le matériel prêté
+
+[Une liste : l'ordre n'a pas d'importance]
+Chaussons d'escalade
+Baudrier
+Sac à magnésie
+Casque pour les sorties en falaise
+
+[Titre de partie]
+Les règles de sécurité
+
+[Les étapes avant de grimper, dans l'ordre où on les fait]
+Enfiler et serrer son baudrier
+Faire son nœud d'encordement
+Faire vérifier son nœud par son partenaire
+Vérifier le système d'assurage du partenaire
+
+[Paragraphe : le mot « jamais » doit être mis en valeur comme un mot important]
+On ne grimpe jamais sans vérification croisée.
+
+[Image]
+Image : images/bloc.jpg (un grimpeur sur le mur de bloc)
+
+[Un lien vers un site extérieur, qui s'ouvre dans un nouvel onglet]
+Fédération française de la montagne et de l'escalade : https://www.ffme.fr
+
+[Un lien, tout en bas de la page, qui ramène en haut de la page]
+Retour en haut
+
+
+=============== PAGE 3 : INSCRIPTION (inscription.html) ===============
+
+[Titre de partie]
+Rejoindre le club
+
+[Paragraphe]
+Remplis ce formulaire : nous te recontactons dans la semaine pour organiser ta première séance.
+
+[Un formulaire avec ces champs. Chaque champ a son étiquette, correctement associée.]
+Nom et prénom (obligatoire)
+Adresse e-mail (obligatoire, doit être une adresse e-mail)
+Classe (facultatif)
+As-tu déjà grimpé ? Raconte-nous. (facultatif, zone de texte sur plusieurs lignes)
+Un bouton : Envoyer ma demande
